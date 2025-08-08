@@ -19,7 +19,7 @@ A modern, interactive Tic Tac Toe game with AI opponents and local multiplayer. 
 
 ## 🕹️ How to Play
 
-1. Visit the game at [Demo](https://mohitscodiclab.github.io/Tic_Tac_Toe_gm/)
+1. Visit the game at [Tic Tac Toe](https://mohitscodiclab.github.io/Tic_Tac_Toe_gm/)
 2. Select your preferred game mode:
    - Choose between AI (with difficulty level) or Two-Player mode
 3. Players take turns placing X and O marks on the 3×3 grid
