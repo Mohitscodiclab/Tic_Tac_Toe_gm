@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-A modern, interactive Tic Tac Toe game with AI opponents and local multiplayer. Experience the classic game with enhanced features including vibration feedback and a sleek, user-friendly interface.
+A modern, interactive Tic Tac Toe game with AI opponents and Online multiplayer. Experience the classic game with enhanced features including vibration feedback and a sleek, user-friendly interface.
 
 ## 🎮 Features
 
